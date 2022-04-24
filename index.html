@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Trx靓号生成器</title>
+	</head>
+	<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+	<script type="text/javascript" src="./js/TronWeb.js"></script>
+	<script type="text/javascript" src="./js/flexible.js"></script>
+	<script type="text/javascript" src="./js/gen.js"></script>
+	<body>
+		<div style="color:red">***此为离线脚本,怕安全问题请断网执行,不会存私钥,生成后请及时保存,否则无法找回,自行保存私钥,个人原因造成损失本脚本不承担任何责任,仅供学习交流使用***</div>
+		<a href="https://t.me/handao168" target="_blank">
+			<img style="width:60px" src="data:image/jpeg;base64,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" />
+		</a><br />
+		尾号重复数量:<input id="repeatnum"  placeholder="4" onkeyup="if(this.value.length==1){this.value=this.value.replace(/[^1-9]/g,'')}else{this.value=this.value.replace(/\D/g,'')}" onafterpaste="if(this.value.length==1){this.value=this.value.replace(/[^1-9]/g,'')}else{this.value=this.value.replace(/\D/g,'')}">
+		<button onclick="start(1)">开始</button><button onclick="stop()">停止</button>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+		尾号指定:<input id="repeatstr" placeholder="匹配字符" onkeyup="value=value.replace(/[^\w]/ig,'')">
+		<button onclick="start(2)">开始</button><button onclick="stop()">停止</button>
+		<hr><br/>
+		<button onclick="clearAll()">清除所有痕迹-确保数据都保存了</button>
+		<div>
+			<h3>已生成靓号:</h3>
+			<div id="addressResult">
+			</div>
+		</div>
+		<div>
+			<h3>靓号生成中:</h3>
+			<div id="addresslog" style="overflow: scroll;background-color: #000000; width: 90%;height: 600px;"></div>
+		</div>
+
+	</body>
+	
+</html>
