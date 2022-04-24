@@ -4,4 +4,4 @@
 
 担心安全问题请断网
 
-[telegram](https://t.me/handao168)
+[Telegram](https://t.me/handao168)
