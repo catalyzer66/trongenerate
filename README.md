@@ -1,0 +1,2 @@
+# tronGenerateAccount
+tron generate account
