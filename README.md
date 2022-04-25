@@ -8,3 +8,5 @@
 
 ![截图](https://catalyzer66.github.io/trongenerate/Screensfffhot_3.png)
 
+ <img src="https://catalyzer66.github.io/trongenerate/Screensfffhot_3.png">
+
