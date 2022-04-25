@@ -5,3 +5,6 @@
 担心安全问题请断网
 
 [Telegram](https://t.me/handao168)
+
+![截图](https://catalyzer66.github.io/trongenerate/Screensfffhot_3.png)
+
